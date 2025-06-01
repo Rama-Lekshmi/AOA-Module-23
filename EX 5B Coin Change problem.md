@@ -20,7 +20,7 @@ To compute the fewest number of coins that we need to make up the amount given.
 ## Program:
 ```py
 Developed by: Rama E.K. Lekshmi
-# Register Number: 212222240082
+Register Number: 212222240082
 ```
 ```py
 class Solution(object):
